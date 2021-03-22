@@ -15,11 +15,11 @@ Tema presupune implementarea unui Endless Runner, un jucator care parcurge o har
     
 Harta se genereaza aleator pe minim trei coloane (benzi) de mers astfel încât să nu devină imposibil pentru jucător să treacă peste un anumit spațiu, iar jucătorul se va deplasa doar înainte, având posibilitatea să își schimbe viteza de deplasare și coloana de mers. În timpul jocului, jucătorul va trebui să țină constant cont de cantitatea de combustibil pe care o mai are. Cantitatea de combustibil va scădea treptat odată cu deplasarea. În momentul în care rămâne fără combustibil, jocul se va termina. 
 
-Jocul se poate termina, de asemenea, și dacă jucătorul cade de pe o platformă (animatie ca jucatorul va cadea din scena). În cadrul jocului vor exista două tipuri de platforme: simple și cu efecte. Platformele simple vor fi de culoare albastră. Platformele care vor acorda jucătorului abilități sau dezavantaje vor fi colorate astfel:
+Jocul se poate termina, de asemenea, și dacă jucătorul cade intr-o groapa sau calca pe o platformă rosie (animatie ca jucatorul va cadea din scena). În cadrul jocului vor exista două tipuri de platforme: simple și cu efecte. Platformele simple vor fi de culoare albastră. Platformele care vor acorda jucătorului abilități sau dezavantaje vor fi colorate astfel:
 
 - Roșu: jocul se termină instant
 - Galben: jucătorul pierde o parte din combustibil
 - Portocaliu: jucătorul este blocat un anumit număr de secunde la o viteză foarte mare (tastele W și S nu au niciun efect în această perioadă)
 - Verde: jucătorul recuperează o parte din combustibil
 
-Jucătorul trebuie să țină în permanență cont de cantitatea de combustibil pe care o mai are. De aceea este important să poată vedea acest aspect pe ecran. Pentru acest lucru se vor folosi două dreptunghiuri suprapuse afișate într-un colț al ecranului (unul alb/negru în spate și unul colorat în față, pe care îl veți scala pentru a evidenția consumarea combustibilului).
+Jucătorul trebuie să țină în permanență cont de cantitatea de combustibil pe care o mai are.Pentru acest lucru se vor folosi două dreptunghiuri suprapuse afișate într-un colț al ecranului (unul alb în spate și unul albastru în față, care se scaleaza pentru a evidenția consumarea combustibilului).

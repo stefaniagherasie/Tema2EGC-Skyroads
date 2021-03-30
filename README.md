@@ -2,7 +2,6 @@
 [Tema2 - Elemente de Grafica pe Calculator] 
 
 Tema presupune implementarea unui Endless Runner, un jucator care parcurge o harta. <br>
-Enunt: https://ocw.cs.pub.ro/courses/egc/teme/2020/02
 
 
     Framework complet: https://github.com/UPB-Graphics/Framework-EGC

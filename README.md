@@ -10,7 +10,7 @@ Tema presupune implementarea unui Endless Runner, un jucator care parcurge o har
 >  - ```A / D``` - va schimba coloanele de mers
 >  - ```SPACE``` - va fi folosită pentru a sări peste spații
 >  - ```W / S``` - pentru a alege viteza de mers
->  - ```C```- se va oscila între modurile de joc first și third person camera.
+>  - ```C```- se va oscila între modurile de joc first și third person camera
 
 
 #### IMPLEMENTARE

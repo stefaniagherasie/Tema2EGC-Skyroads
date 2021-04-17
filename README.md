@@ -1,6 +1,5 @@
 # Tema2EGC-Skyroads
-[Tema2 - Elemente de Grafica pe Calculator] 
-
+[Tema2 - Elemente de Grafica pe Calculator] <br>
 Tema presupune implementarea unui Endless Runner, un jucator care parcurge o harta. <br>
 > Framework complet: [aici](https://github.com/UPB-Graphics/Framework-EGC) <br>
 > Enunt: [aici](https://ocw.cs.pub.ro/courses/egc/teme/2020/02)
